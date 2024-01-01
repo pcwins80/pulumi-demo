@@ -1,0 +1,6 @@
+name: pulumi-hands-on
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: text
